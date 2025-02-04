@@ -1,0 +1,12 @@
+README.md
+setup.py
+devlogbot/__init__.py
+devlogbot/config.py
+devlogbot/devlogvectordb.py
+devlogbot/main.py
+devlogbot.egg-info/PKG-INFO
+devlogbot.egg-info/SOURCES.txt
+devlogbot.egg-info/dependency_links.txt
+devlogbot.egg-info/entry_points.txt
+devlogbot.egg-info/requires.txt
+devlogbot.egg-info/top_level.txt

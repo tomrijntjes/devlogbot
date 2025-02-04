@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: devlogbot
+Version: 1.0
+Summary: Query development logs
+Requires-Dist: chromadb
+Requires-Dist: openai
+Dynamic: requires-dist
+Dynamic: summary
