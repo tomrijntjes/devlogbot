@@ -39,7 +39,7 @@ def main():
         try:
             # Send the prompt to the LLM model using completions API
             completion = openai_client.chat.completions.create(
-                model="lmstudio-community/qwen2.5-7b-instruct",
+                model="qwen2.5-7b-instruct-1m",
                 max_tokens=8192,
                 messages=[{
                     "role": "user",
